@@ -90,7 +90,7 @@ Request Body
 ```
 13. Which curl option is used to view the response header?
 ```bash
--h
+-H
 ```
 14. Which request method might an attacker use to figure out which HTTP requests an HTTP server will accept?
 ```bash
