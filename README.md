@@ -86,7 +86,7 @@ Request Body
 ```
 12. Which curl option is used to set request headers?
  ```bash
--i
+-I
 ```
 13. Which curl option is used to view the response header?
 ```bash
